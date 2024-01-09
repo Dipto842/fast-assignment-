@@ -34,8 +34,8 @@ height: 600px;
 
 .h1{
     font-size: 62px;
-    padding: 0 0 0 649px;
-    width: 664px;
+    padding: 0 0 0 453px;
+    width: 445px;
     color: #FFF;
     text-align: center;
    display: inline-block;
@@ -81,10 +81,10 @@ height: 600px;
     color: #FFF;
 }
 .bonas_1 > h1{
-    line-height: 82px;
-  padding-right: 149px;
-  letter-spacing: 9px;
-  font-size: 42px;
+    line-height: 79px;
+    padding-right: 156px;
+    letter-spacing: 3px;
+    font-size: 64px;
 }
 .bonas_2{}
 .bonas_3{
@@ -92,20 +92,31 @@ height: 600px;
     padding: 13px 0 0 199px;
 }
 .my_you {
-    line-height: 34px;
     color: rgba(255, 255, 255, 0.80);
-    font-size: 14px;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
 }
 .bonas_1{
     padding: 44px 0 0px 69px;
 }
 .button{
     background: #F00;;
-  width: 110px;
+  width: 112px;
   height: 39px;
   border: 2px solid;
   border-radius: 9px;
   color: white;
+}
+.button_3{color: #FFF;
+    text-align: center;
+    
+    font-size: 20px;
+   
+    font-weight: 700;
+    margin-right: 149px;
+   
 }
 .res{
     color: #F00;
@@ -128,13 +139,13 @@ height: 600px;
     background-image: url("../imge/resources/Ellipse\ 1.png");
     background-repeat: no-repeat;
     background-repeat: no-repeat;
-    width: 304px;
-    height: 296px;
-  border-radius: 414px;
-  border: 15px solid #F00;
-  background-size: 281px;
-  background-position: center;
-  margin: 0 0 0 95px;;
+    width: 413px;
+    height: 408px;
+    border-radius: 414px;
+    border: 15px solid #F00;
+    background-size: 360px;
+    background-position: center;
+    margin: 0 -26px 0 20px;
 }
 .offre{
 display: flex;
@@ -171,7 +182,9 @@ padding:  105px 0 0 145px;
     font-weight: 400;
     line-height: 32px;}
 
-    .back_head{}
+    .back_head{
+        margin: 202px 0 0 0;
+    }
 
     .back{
         width: 1600px;
@@ -184,6 +197,7 @@ padding:  105px 0 0 145px;
   height: 228px;
   background-repeat: no-repeat;
   margin: 0 auto;
+
     }
     .img_3{
         width: 481px;
@@ -205,6 +219,7 @@ padding:  105px 0 0 145px;
         font-size: 24px;
         font-weight: 500;
         text-align: center;
+        height: 0;
     }
     .back_head_2{
         color: #F00;
